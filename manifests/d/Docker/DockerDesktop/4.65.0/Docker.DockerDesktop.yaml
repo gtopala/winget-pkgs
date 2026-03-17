@@ -1,8 +1,8 @@
-# Created using wingetcreate 1.12.8.0
+# Created with komac v2.15.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.12.0.schema.json
 
-PackageIdentifier: NirSoft.NK2Edit
-PackageVersion: "3.46"
+PackageIdentifier: Docker.DockerDesktop
+PackageVersion: 4.65.0
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.12.0
