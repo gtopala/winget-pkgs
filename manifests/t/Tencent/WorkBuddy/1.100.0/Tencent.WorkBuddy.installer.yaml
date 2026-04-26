@@ -145,10 +145,10 @@ FileExtensions:
 - yml
 - zsh
 ProductCode: '{BFD312E9-1019-4F57-9F44-F86246833B50}}_is1'
-ReleaseDate: 2026-04-08
+ReleaseDate: 2026-04-24
 Installers:
 - Architecture: x64
-  InstallerUrl: https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-4.8.3.24891663-2fecf297.exe
-  InstallerSha256: 0CACF94A78608D17501CDF1BE55A2F484203E60125AD7DF4E9E27606F0B1794E
+  InstallerUrl: https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-4.10.4.26327962-85c7979b.exe
+  InstallerSha256: 4F5D413CDC1635F5FB2CE623E6113B9B0EFA79BEF1D15D9466D4D7B58C011F7E
 ManifestType: installer
 ManifestVersion: 1.12.0
