@@ -1,0 +1,17 @@
+# Automatically updated by the winget bot at 2026/Oct/07
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+
+PackageIdentifier: CuteCutPro.CuteCutPro
+PackageVersion: 2.5.3
+Installers:
+- Architecture: x64
+  InstallerType: nullsoft
+  InstallerUrl: https://github.com/MDIsmatullah/CuteCut-Pro/releases/download/v2.5.3/CuteCut.Pro.Setup.2.5.3.exe
+  InstallerSha256: 33E2F814F96C2ED5F6C08852D4B16A88905847D5985C8D8B28C9D29ED775FA60
+  AppsAndFeaturesEntries:
+  - DisplayName: CuteCut Pro
+    ProductCode: com.cutecutpro.app
+    DisplayVersion: 2.5.3
+    Publisher: Asmatullah Developer
+ManifestType: installer
+ManifestVersion: 1.28.0
