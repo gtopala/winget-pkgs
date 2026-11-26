@@ -6,18 +6,18 @@ PackageVersion: master
 InstallerType: nullsoft
 UpgradeBehavior: install
 ProductCode: kalarm
-ReleaseDate: 2026-11-20
+ReleaseDate: 2026-11-25
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-3646-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 94832951010C535503201501C051D9ED2CD7E8727E50F65B597ED52020597793
+  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-3673-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: C72793E5BCE189D378807C99A14B5BB5C24E787F191D4D73B4B8120F6E4FE07B
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-3646-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 94832951010C535503201501C051D9ED2CD7E8727E50F65B597ED52020597793
+  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-3673-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: C72793E5BCE189D378807C99A14B5BB5C24E787F191D4D73B4B8120F6E4FE07B
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer

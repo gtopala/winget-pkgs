@@ -6,18 +6,18 @@ PackageVersion: master
 InstallerType: nullsoft
 UpgradeBehavior: install
 ProductCode: kbounce
-ReleaseDate: 2026-11-17
+ReleaseDate: 2026-11-25
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-968-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 93DD4D10FA2539D1C2DDB95B0B979C21B7CFEC7D197A66FD6857B9D99364D4BB
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-976-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 52E10B42A5E54BA88F2928817EA04F93ED3EFC2220208CB61671416487E7B3D7
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-968-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 93DD4D10FA2539D1C2DDB95B0B979C21B7CFEC7D197A66FD6857B9D99364D4BB
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-976-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 52E10B42A5E54BA88F2928817EA04F93ED3EFC2220208CB61671416487E7B3D7
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
